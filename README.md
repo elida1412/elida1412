@@ -13,7 +13,7 @@ Here are some ideas to get you started:
   <img src="https://img.shields.io/badge/-Github-181717?style=for-the-badge&logo=GitHub&logoColor=white"/>
   <img src="https://img.shields.io/badge/-C++-00599C?style=flat-square&logo=c" />
   <img src="https://upload.wikimedia.org/wikipedia/commons/0/08/AutoCad_logo.svg" />
-  <img src="https://www.shutterstock.com/image-vector/sap-business-process-automation-software-erp-1434506561"/>
+
 <!--
 **elida1412/elida1412** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 

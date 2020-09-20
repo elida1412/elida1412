@@ -3,11 +3,11 @@
 
 ## Hello! I'm Elida Domínguez, Planification and control ENSA. Experienced Electrical Engineering Specialist with a demonstrated history of working in the oil & energy industry. Skilled in AutoCAD, C++, SAP ERP, Maximo and Leadership. Strong operations professional with Bachelor's degree in system electric and automation and additional Bachelor's degree focused in Ingeniería Mecatrónica from Universidad Latina de Panamá. 
 
-### Donde me puedes encontrar
-
+### Where can you find me
+Here are some ideas to get you started:
 _Personal_
 * :star::blush: Red de trabajo **[Linkedin](https://www.linkedin.com/in/elida-dom%C3%ADnguez-057965181/)** :v:
-Here are some ideas to get you started:
+
 <!--
 **elida1412/elida1412** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 

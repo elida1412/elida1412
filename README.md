@@ -8,6 +8,12 @@ Here are some ideas to get you started:
 _Personal_
 * :star::blush: Red de trabajo **[Linkedin](https://www.linkedin.com/in/elida-dom%C3%ADnguez-057965181/)** :v:
 
+<summary> <b>I'm currently learning... <b></summary>
+  <img src="https://img.shields.io/badge/-Python-FFD43B?style=for-the-badge&logo=python&logoColor=white&labelColor=4B8BBE" />
+  <img src="https://img.shields.io/badge/-Visual%20Studio%20Code-23A9F2?style=for-the-badge&logo=Visual%20Studio%20Code&logoColor=white"/>
+  <img src="https://img.shields.io/badge/-Github-181717?style=for-the-badge&logo=GitHub&logoColor=white"/>
+  <img src="https://img.shields.io/badge/-C++-00599C?style=flat-square&logo=c" />
+
 <!--
 **elida1412/elida1412** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 

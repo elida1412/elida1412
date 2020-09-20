@@ -12,7 +12,7 @@ Here are some ideas to get you started:
   <img src="https://img.shields.io/badge/-Visual%20Studio%20Code-23A9F2?style=for-the-badge&logo=Visual%20Studio%20Code&logoColor=white"/>
   <img src="https://img.shields.io/badge/-Github-181717?style=for-the-badge&logo=GitHub&logoColor=white"/>
   <img src="https://img.shields.io/badge/-C++-00599C?style=flat-square&logo=c" />
-  <img src="https://img.shields.io/badge/-q=autocad+2020&sxsrf=ALeKk028yzqCXD4OTQeXTTvizDBhmLBJ2w:1600636247164&source=lnms&tbm=isch&sa=X&ved=2ahUKEwi9wLTX0vjrAhVndt8KHWMXCZYQ_AUoAXoECA8QAw&biw=1517&bih=730#imgrc=R4ICVruswnA9CM" />
+  <img src="https://img.shields.io/badge/-lapizgrafico.com/autocad-2020-para-mac/" />
 <!--
 **elida1412/elida1412** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
